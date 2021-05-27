@@ -35,7 +35,7 @@
 [linkedin]: https://linkedin.com/in/ignacio-miranda-figueroa
 [vscurl]: https://code.visualstudio.com/
 [nodejsurl]: https://nodejs.org/en/
-[discordjsurl]: https://discord.js.org/#/
+[discordjsurl]: https://discord.com/oauth2/authorize?client_id=768272679051591691&permissions=8&scope=bot
 [mysqlurl]: https://www.mysql.com/about/
 [mongodburl]: https://www.mongodb.com/
 [giturl]: https://git-scm.com/
