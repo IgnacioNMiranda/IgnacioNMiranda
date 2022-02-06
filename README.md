@@ -1,42 +1,68 @@
-### Hey (:, Soy Ignacio - aka IgnacioNMiranda 👋
+# Hey 😄 I'm Ignacio Miranda - aka N 👋
 
-## Soy Estudiante, Desarrollador y Profesor (algo así 😅)
+## About me 👨‍💻
 
-- 👨‍🎓 Actualmente estudio Ingeniería Civil en Computación e Informática 🧑‍🎓
-- 👯 Me encanta aprender sobre nuevas tecnologías 🎈
-- 🥅 Objetivos 2021: Terminar la universidad | Aprender más sobre el ambiente de Node.js (Nest, React, Angular).
-- ⚡ Hobbies: Escuchar música celta y electro 🎵 | Jugar videojuegos 🎮
-- 🔗 Aspiraciones: Ser el mejor desarrollador web fullstack 🌐
+- 👨‍🎓 Informatics and Computing Civil Engineer 🧑‍🎓
+- 🧑‍🏫 I think teaching is one of the most importants things that someone can do to learn and be better
+- 🆕 I love to learn about new and modern technologies 🎈
+- 💡 Objectives: Try to do my very best and always grow a lot in both professional and personal aspects
+- ⚡ Hobbies: Listen celta & electro music 🎵 | Play videogames 🎮
+- 🔗 Professional aspirations: Be one of the top web developers 🌐
 
-### Redes sociales
+## Social Networks 👪
 
-[<img align="left" alt="IgnacioNMiranda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://linkedin.com/in/ignacio-miranda-figueroa" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+
+## Technologies ⚙️
+
+### Languages 📚
+
+<img align="left" alt="HTML5" src="https://img.icons8.com/color/35/000000/html-5--v1.png" />
+<img align="left" alt="CSS3" src="https://img.icons8.com/color/35/000000/css3.png" />
+<img align="left" alt="JavaScript" src="https://img.icons8.com/color/35/000000/javascript.png" />
+
+<br/>
+<br/>
+
+### Tools & Frameworks 🛠️
+
+<img align="left" alt="Sass" src="https://img.icons8.com/color/35/000000/sass.png" />
+<img align="left" alt="Node.js" src="https://img.icons8.com/color/35/000000/nodejs.png" />
+<img align="left" alt="Next.js" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="NestJS" width="35px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
+<img align="left" alt="Discord.js" width="35px" src="https://discordjs.guide/meta-image.png" />
+<img align="left" alt="Git" src="https://img.icons8.com/color/35/000000/git.png" />
+<img align="left" alt="Github" src="https://img.icons8.com/color/35/000000/github.png" />
+<img align="left" alt="VSCode" src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png" />
+
+<br/>
+<br/>
+
+### Databases 💾
+
+<img align="left" alt="PostgreSQL" src="https://img.icons8.com/color/35/000000/postgresql.png" />
+<img align="left" alt="MongoDB" src="https://img.icons8.com/color/35/000000/mongodb.png" />
 
 <br />
+<br/>
 
-### Lenguajes y herramientas
+## Experience
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscurl]
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejsurl]
-[<img align="left" alt="Discord.js" width="26px" src="https://discord.js.org/static/logo-square.png" />][discordjsurl]
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysqlurl]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodburl]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][giturl]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githuburl]
+- Working at: <a href="https://reign.cl/"><img src="https://img.shields.io/static/v1?&label=&message=Reign&color=yellow&logo=goldenline" /></a>
+- [Hacktoberfest-2021](https://hacktoberfest.digitalocean.com/): Participated as developer.
+- [Hack-the-challenge](https://www.hackthechallenge.cl/) | [Winner](https://tecnoeducacion.cl/2021/12/07/alumnos-de-la-ucn-ganan-hackaton-con-proyecto-tecnologico-para-la-salud/).
+- 🔬 Have played around with: <img src="https://img.shields.io/static/v1?&label=&message=AWS&color=9cf&logo=amazonaws" /><img src="https://img.shields.io/static/v1?&label=&message=GCP&color=blue&logo=googlecloud" /><img src="https://img.shields.io/static/v1?&label=&message=Java&color=orange&logo=java" /><img src="https://img.shields.io/static/v1?&label=&message=C*&color=purple&logo=csharp" /><img src="https://img.shields.io/static/v1?&label=&message=C**&color=9cf&logo=cplusplus" />
+- 🔧 Using the following code tools: <img src="https://img.shields.io/static/v1?&label=&message=VS%20Code&color=blue&logo=visualstudiocode" /><img src="https://img.shields.io/static/v1?&label=&message=Git&color=orange&logo=git" /><img src="https://img.shields.io/static/v1?&label=&message=Github&color=purple&logo=github" />
+- Made a discord bot <a href="https://discord.com/oauth2/authorize?client_id=768272679051591691&permissions=8&scope=bot"><img src="https://img.shields.io/static/v1?&label=&message=Chibi Knight&color=purple&logo=discord" /></a>
+- 🌱 Currently learning: <img src="https://img.shields.io/static/v1?&label=&message=Angular&color=red&logo=angular" />
 
-<br />
-<br />
+## Statistics 📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgnacioNMiranda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="IgnacioNMiranda" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=IgnacioNMiranda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="IgnacioNMiranda" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IgnacioNMiranda&theme=highcontrast&hide_border=true" alt="IgnacioNMiranda" />
+</p>
 
 [linkedin]: https://linkedin.com/in/ignacio-miranda-figueroa
-[vscurl]: https://code.visualstudio.com/
-[nodejsurl]: https://nodejs.org/en/
 [discordjsurl]: https://discord.com/oauth2/authorize?client_id=768272679051591691&permissions=8&scope=bot
-[mysqlurl]: https://www.mysql.com/about/
-[mongodburl]: https://www.mongodb.com/
-[giturl]: https://git-scm.com/
-[githuburl]: https://github.com/
