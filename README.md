@@ -40,11 +40,6 @@
 - Made a discord bot <a href="https://discord.com/oauth2/authorize?client_id=768272679051591691&permissions=8&scope=bot"><img src="https://img.shields.io/static/v1?&label=&message=Chibi Knight&color=purple&logo=discord" /></a>
 - 🌱 Currently learning: <a href="https://machalliance.org/">MACH technologies</a>
 
-- <b>I have a [hashnode blog](https://igna.hashnode.dev/)! trying to post regularly (:</b>
-
-- I've created [posts](https://www.contentful.com/blog/author/ignacio-miranda-figueroa/) in collaboration with <img src="https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png" width="15"/> Contentful
-
-
 ## Statistics 📈
 
 <p align="center">
@@ -56,8 +51,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgnacioNMiranda&theme=tokyonight" alt="mystreak"/>
 </p>
 
-[linkedin]: https://linkedin.com/in/ignacio-miranda-figueroa
-[discordjsurl]: https://discord.com/oauth2/authorize?client_id=768272679051591691&permissions=8&scope=bot
+## Blogs
+
+### Hashnode
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
+### Contentful
+
+Some collaboration with <img src="https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png" width="15"/> Contentful [here](https://www.contentful.com/blog/author/ignacio-miranda-figueroa)!
 
 ## Support
 
